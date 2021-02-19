@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on navit, bolzplatz2006 and OpenFOAM related topics.
+- I’m currently working on navit, bolzplatz2006 and OpenFOAM related topics.
 - 🌱 I’m currently learning ...
-👯 I’m looking to collaborate on SpaceDesignTool and Zotero-Prime.
-🤔 I’m looking for help with SpaceDesignTool and Zotero-Prime.
+- I’m looking to collaborate on SpaceDesignTool and Zotero-Prime.
+- I’m looking for help with SpaceDesignTool and Zotero-Prime.
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
