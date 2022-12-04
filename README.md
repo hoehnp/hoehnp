@@ -1,6 +1,6 @@
 ### Hi there 👋
 - I’m currently working on navit, bolzplatz2006 and OpenFOAM related topics.
-- 👯 I’m looking to collaborate on SpaceDesignTool and Zotero-Prime.
+- 👯 I’m looking to collaborate on SpaceDesignTool, bolzplatz2006 and Zotero-Prime.
 - 🤔 I’m looking for help with SpaceDesignTool and Zotero-Prime.
 
 [![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoehnp)](https://github.com/anuraghazra/github-readme-stats)
